@@ -1,0 +1,27 @@
+[0.686s] Invoking command in '/home/ubuntu/ros2_ws/build/rob599_hw3': PYTHONPATH=/home/ubuntu/ros2_ws/build/rob599_hw3/prefix_override:/home/ubuntu/ros2_ws/install/rob599_hw3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ubuntu/ros2_ws/build/rob599_hw3/build --no-deps install_data
+[0.833s] running develop
+[0.835s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.835s]   warnings.warn(
+[0.836s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.836s]   warnings.warn(
+[0.935s] running egg_info
+[0.935s] creating rob599_hw3.egg-info
+[0.935s] writing rob599_hw3.egg-info/PKG-INFO
+[0.935s] writing dependency_links to rob599_hw3.egg-info/dependency_links.txt
+[0.935s] writing entry points to rob599_hw3.egg-info/entry_points.txt
+[0.935s] writing requirements to rob599_hw3.egg-info/requires.txt
+[0.935s] writing top-level names to rob599_hw3.egg-info/top_level.txt
+[0.936s] writing manifest file 'rob599_hw3.egg-info/SOURCES.txt'
+[0.936s] reading manifest file 'rob599_hw3.egg-info/SOURCES.txt'
+[0.937s] writing manifest file 'rob599_hw3.egg-info/SOURCES.txt'
+[0.937s] running build_ext
+[0.937s] Creating /home/ubuntu/ros2_ws/install/rob599_hw3/lib/python3.10/site-packages/rob599-hw3.egg-link (link to .)
+[0.938s] 
+[0.938s] Installed /home/ubuntu/ros2_ws/build/rob599_hw3
+[0.938s] running install_data
+[0.938s] creating /home/ubuntu/ros2_ws/install/rob599_hw3/share/ament_index
+[0.938s] creating /home/ubuntu/ros2_ws/install/rob599_hw3/share/ament_index/resource_index
+[0.938s] creating /home/ubuntu/ros2_ws/install/rob599_hw3/share/ament_index/resource_index/packages
+[0.938s] copying resource/rob599_hw3 -> /home/ubuntu/ros2_ws/install/rob599_hw3/share/ament_index/resource_index/packages
+[0.938s] copying package.xml -> /home/ubuntu/ros2_ws/install/rob599_hw3/share/rob599_hw3
+[0.957s] Invoked command in '/home/ubuntu/ros2_ws/build/rob599_hw3' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/build/rob599_hw3/prefix_override:/home/ubuntu/ros2_ws/install/rob599_hw3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ubuntu/ros2_ws/build/rob599_hw3/build --no-deps install_data

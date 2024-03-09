@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/rob599hw_2/rob599hw_2.egg-info/PKG-INFO
+writing dependency_links to ../../build/rob599hw_2/rob599hw_2.egg-info/dependency_links.txt
+writing entry points to ../../build/rob599hw_2/rob599hw_2.egg-info/entry_points.txt
+writing requirements to ../../build/rob599hw_2/rob599hw_2.egg-info/requires.txt
+writing top-level names to ../../build/rob599hw_2/rob599hw_2.egg-info/top_level.txt
+reading manifest file '../../build/rob599hw_2/rob599hw_2.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/rob599hw_2/rob599hw_2.egg-info/SOURCES.txt'
+running build
+running build_py
+copying rob599hw_2/rotation_limiter.py -> /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2
+running install
+running install_lib
+copying /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2/rotation_limiter.py -> /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2
+byte-compiling /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2/rotation_limiter.py to rotation_limiter.cpython-310.pyc
+running install_data
+copying package.xml -> /home/ubuntu/ros2_ws/install/rob599hw_2/share/rob599hw_2
+creating /home/ubuntu/ros2_ws/install/rob599hw_2/share/rob599hw_2/launch
+copying launch/speed_limit_launch.py -> /home/ubuntu/ros2_ws/install/rob599hw_2/share/rob599hw_2/launch
+running install_egg_info
+removing '/home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/rob599hw_2/rob599hw_2.egg-info to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2-0.0.0-py3.10.egg-info
+running install_scripts
+Installing check_twist script to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/rob599hw_2
+Installing rotation_limiter script to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/rob599hw_2
+Installing twist_generator script to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/rob599hw_2
+writing list of installed files to '/home/ubuntu/ros2_ws/build/rob599hw_2/install.log'

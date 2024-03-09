@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+resource/rob599_hw3
+rob599_hw3/__init__.py
+rob599_hw3.egg-info/PKG-INFO
+rob599_hw3.egg-info/SOURCES.txt
+rob599_hw3.egg-info/dependency_links.txt
+rob599_hw3.egg-info/entry_points.txt
+rob599_hw3.egg-info/requires.txt
+rob599_hw3.egg-info/top_level.txt
+rob599_hw3.egg-info/zip-safe

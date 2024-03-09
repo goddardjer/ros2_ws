@@ -1,0 +1,2 @@
+Invoking command in '/home/ubuntu/ros2_ws/build/rob599_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws/build/rob599_msgs -- -j16 -l16
+Invoked command in '/home/ubuntu/ros2_ws/build/rob599_msgs' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws/build/rob599_msgs -- -j16 -l16

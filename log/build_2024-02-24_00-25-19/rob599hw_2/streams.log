@@ -1,0 +1,31 @@
+[0.386s] Invoking command in '/home/ubuntu/ros2_ws/src/rob599hw_2': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/rob599_msgs:/home/ubuntu/ros2_ws/install/turtlesim LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/rob599_msgs/lib:/home/ubuntu/ros2_ws/install/turtlesim/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/ubuntu/ros2_ws/build/rob599hw_2/prefix_override:/home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rob599hw_2 build --build-base /home/ubuntu/ros2_ws/build/rob599hw_2/build install --record /home/ubuntu/ros2_ws/build/rob599hw_2/install.log --single-version-externally-managed
+[0.503s] running egg_info
+[0.504s] writing ../../build/rob599hw_2/rob599hw_2.egg-info/PKG-INFO
+[0.504s] writing dependency_links to ../../build/rob599hw_2/rob599hw_2.egg-info/dependency_links.txt
+[0.504s] writing entry points to ../../build/rob599hw_2/rob599hw_2.egg-info/entry_points.txt
+[0.504s] writing requirements to ../../build/rob599hw_2/rob599hw_2.egg-info/requires.txt
+[0.504s] writing top-level names to ../../build/rob599hw_2/rob599hw_2.egg-info/top_level.txt
+[0.504s] reading manifest file '../../build/rob599hw_2/rob599hw_2.egg-info/SOURCES.txt'
+[0.504s] adding license file 'LICENSE'
+[0.505s] writing manifest file '../../build/rob599hw_2/rob599hw_2.egg-info/SOURCES.txt'
+[0.505s] running build
+[0.505s] running build_py
+[0.505s] copying rob599hw_2/action_server.py -> /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2
+[0.505s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.505s]   warnings.warn(
+[0.505s] running install
+[0.505s] running install_lib
+[0.506s] copying /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2/action_server.py -> /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2
+[0.506s] byte-compiling /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2/action_server.py to action_server.cpython-310.pyc
+[0.506s] running install_data
+[0.506s] running install_egg_info
+[0.507s] removing '/home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2-0.0.0-py3.10.egg-info' (and everything under it)
+[0.507s] Copying ../../build/rob599hw_2/rob599hw_2.egg-info to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2-0.0.0-py3.10.egg-info
+[0.508s] running install_scripts
+[0.518s] Installing action_client script to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/rob599hw_2
+[0.518s] Installing action_server script to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/rob599hw_2
+[0.518s] Installing check_twist script to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/rob599hw_2
+[0.519s] Installing rotation_limiter script to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/rob599hw_2
+[0.519s] Installing twist_generator script to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/rob599hw_2
+[0.519s] writing list of installed files to '/home/ubuntu/ros2_ws/build/rob599hw_2/install.log'
+[0.530s] Invoked command in '/home/ubuntu/ros2_ws/src/rob599hw_2' returned '0': CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/rob599_msgs:/home/ubuntu/ros2_ws/install/turtlesim LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/rob599_msgs/lib:/home/ubuntu/ros2_ws/install/turtlesim/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/ubuntu/ros2_ws/build/rob599hw_2/prefix_override:/home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rob599hw_2 build --build-base /home/ubuntu/ros2_ws/build/rob599hw_2/build install --record /home/ubuntu/ros2_ws/build/rob599hw_2/install.log --single-version-externally-managed

@@ -1,0 +1,45 @@
+[0.427s] Invoking command in '/home/ubuntu/ros2_ws/src/rob599hw_2': PYTHONPATH=/home/ubuntu/ros2_ws/build/rob599hw_2/prefix_override:/home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rob599hw_2 build --build-base /home/ubuntu/ros2_ws/build/rob599hw_2/build install --record /home/ubuntu/ros2_ws/build/rob599hw_2/install.log --single-version-externally-managed
+[0.546s] running egg_info
+[0.546s] creating ../../build/rob599hw_2/rob599hw_2.egg-info
+[0.546s] writing ../../build/rob599hw_2/rob599hw_2.egg-info/PKG-INFO
+[0.547s] writing dependency_links to ../../build/rob599hw_2/rob599hw_2.egg-info/dependency_links.txt
+[0.547s] writing entry points to ../../build/rob599hw_2/rob599hw_2.egg-info/entry_points.txt
+[0.547s] writing requirements to ../../build/rob599hw_2/rob599hw_2.egg-info/requires.txt
+[0.547s] writing top-level names to ../../build/rob599hw_2/rob599hw_2.egg-info/top_level.txt
+[0.547s] writing manifest file '../../build/rob599hw_2/rob599hw_2.egg-info/SOURCES.txt'
+[0.547s] reading manifest file '../../build/rob599hw_2/rob599hw_2.egg-info/SOURCES.txt'
+[0.547s] adding license file 'LICENSE'
+[0.548s] writing manifest file '../../build/rob599hw_2/rob599hw_2.egg-info/SOURCES.txt'
+[0.548s] running build
+[0.548s] running build_py
+[0.548s] creating /home/ubuntu/ros2_ws/build/rob599hw_2/build
+[0.548s] creating /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib
+[0.548s] creating /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2
+[0.548s] copying rob599hw_2/check_twist.py -> /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2
+[0.548s] copying rob599hw_2/rotation_limiter.py -> /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2
+[0.548s] copying rob599hw_2/__init__.py -> /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2
+[0.548s] copying rob599hw_2/twist_generator.py -> /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2
+[0.548s] running install
+[0.548s] running install_lib
+[0.549s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.549s]   warnings.warn(
+[0.549s] creating /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2
+[0.549s] copying /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2/check_twist.py -> /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2
+[0.549s] copying /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2/rotation_limiter.py -> /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2
+[0.549s] copying /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2/__init__.py -> /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2
+[0.549s] copying /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2/twist_generator.py -> /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2
+[0.549s] byte-compiling /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2/check_twist.py to check_twist.cpython-310.pyc
+[0.549s] byte-compiling /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2/rotation_limiter.py to rotation_limiter.cpython-310.pyc
+[0.550s] byte-compiling /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2/__init__.py to __init__.cpython-310.pyc
+[0.550s] byte-compiling /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2/twist_generator.py to twist_generator.cpython-310.pyc
+[0.550s] running install_data
+[0.550s] creating /home/ubuntu/ros2_ws/install/rob599hw_2/share/ament_index
+[0.550s] creating /home/ubuntu/ros2_ws/install/rob599hw_2/share/ament_index/resource_index
+[0.550s] creating /home/ubuntu/ros2_ws/install/rob599hw_2/share/ament_index/resource_index/packages
+[0.550s] copying resource/rob599hw_2 -> /home/ubuntu/ros2_ws/install/rob599hw_2/share/ament_index/resource_index/packages
+[0.550s] copying package.xml -> /home/ubuntu/ros2_ws/install/rob599hw_2/share/rob599hw_2
+[0.550s] running install_egg_info
+[0.551s] Copying ../../build/rob599hw_2/rob599hw_2.egg-info to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2-0.0.0-py3.10.egg-info
+[0.551s] running install_scripts
+[0.562s] writing list of installed files to '/home/ubuntu/ros2_ws/build/rob599hw_2/install.log'
+[0.576s] Invoked command in '/home/ubuntu/ros2_ws/src/rob599hw_2' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/build/rob599hw_2/prefix_override:/home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rob599hw_2 build --build-base /home/ubuntu/ros2_ws/build/rob599hw_2/build install --record /home/ubuntu/ros2_ws/build/rob599hw_2/install.log --single-version-externally-managed

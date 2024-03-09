@@ -1,0 +1,5 @@
+[console_scripts]
+check_twist = rob599hw_2.check_twist:main
+rotation_limiter = rob599hw_2.rotation_limiter:main
+twist_generator = rob599hw_2.twist_generator:main
+

@@ -1,0 +1,6 @@
+{
+  "package_name": "rob599_msgs",
+  "non_idl_tuples": [
+    "/home/ubuntu/ros2_ws/src/rob599_msgs:srv/Brakes.srv"
+  ]
+}

@@ -1,0 +1,32 @@
+[0.424s] Invoking command in '/home/ubuntu/ros2_ws/src/rob599hw_2': AMENT_PREFIX_PATH=/home/ubuntu/ros2_ws/install/rob599_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/rob599_msgs LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/rob599_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/ros2_ws/build/rob599hw_2/prefix_override:/home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/rob599_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rob599hw_2 build --build-base /home/ubuntu/ros2_ws/build/rob599hw_2/build install --record /home/ubuntu/ros2_ws/build/rob599hw_2/install.log --single-version-externally-managed
+[0.541s] running egg_info
+[0.541s] writing ../../build/rob599hw_2/rob599hw_2.egg-info/PKG-INFO
+[0.541s] writing dependency_links to ../../build/rob599hw_2/rob599hw_2.egg-info/dependency_links.txt
+[0.541s] writing entry points to ../../build/rob599hw_2/rob599hw_2.egg-info/entry_points.txt
+[0.541s] writing requirements to ../../build/rob599hw_2/rob599hw_2.egg-info/requires.txt
+[0.541s] writing top-level names to ../../build/rob599hw_2/rob599hw_2.egg-info/top_level.txt
+[0.542s] reading manifest file '../../build/rob599hw_2/rob599hw_2.egg-info/SOURCES.txt'
+[0.543s] adding license file 'LICENSE'
+[0.543s] writing manifest file '../../build/rob599hw_2/rob599hw_2.egg-info/SOURCES.txt'
+[0.543s] running build
+[0.543s] running build_py
+[0.544s] copying rob599hw_2/action_client.py -> /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2
+[0.544s] copying rob599hw_2/action_server.py -> /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2
+[0.544s] running install
+[0.545s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.545s]   warnings.warn(
+[0.545s] running install_lib
+[0.546s] copying /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2/action_client.py -> /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2
+[0.546s] copying /home/ubuntu/ros2_ws/build/rob599hw_2/build/lib/rob599hw_2/action_server.py -> /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2
+[0.546s] byte-compiling /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2/action_client.py to action_client.cpython-310.pyc
+[0.547s] byte-compiling /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2/action_server.py to action_server.cpython-310.pyc
+[0.547s] running install_data
+[0.549s] running install_egg_info
+[0.549s] removing '/home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2-0.0.0-py3.10.egg-info' (and everything under it)
+[0.550s] Copying ../../build/rob599hw_2/rob599hw_2.egg-info to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages/rob599hw_2-0.0.0-py3.10.egg-info
+[0.550s] running install_scripts
+[0.561s] Installing check_twist script to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/rob599hw_2
+[0.561s] Installing rotation_limiter script to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/rob599hw_2
+[0.562s] Installing twist_generator script to /home/ubuntu/ros2_ws/install/rob599hw_2/lib/rob599hw_2
+[0.562s] writing list of installed files to '/home/ubuntu/ros2_ws/build/rob599hw_2/install.log'
+[0.573s] Invoked command in '/home/ubuntu/ros2_ws/src/rob599hw_2' returned '0': AMENT_PREFIX_PATH=/home/ubuntu/ros2_ws/install/rob599_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/ros2_ws/install/rob599_msgs LD_LIBRARY_PATH=/home/ubuntu/ros2_ws/install/rob599_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/ros2_ws/build/rob599hw_2/prefix_override:/home/ubuntu/ros2_ws/install/rob599hw_2/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/rob599_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rob599hw_2 build --build-base /home/ubuntu/ros2_ws/build/rob599hw_2/build install --record /home/ubuntu/ros2_ws/build/rob599hw_2/install.log --single-version-externally-managed
